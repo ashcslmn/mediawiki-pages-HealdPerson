@@ -1,0 +1,7 @@
+{{Property
+|Property name=Role
+|Mode=Allows
+|Values=Agriculturalist;Agriculturist;Amateur botanist;Amateur horticulturalist;Architect;Artist;Author;Botanist;Builder;Businessman;Cartographer;Cemetery designer;Civil engineer;Clergy;Clergyman;College president;Congregationalist minister;Consul General;Cultural leader;Diplomat;Draftsman;Editor;Educator;Encyclopedist Translator;Engineer;Engraver;Engraver (printmaker);Enslaved person;Explorer;Farmer;Financier;Florist;Garden designer;Gardener;Gardener;Gardener;Government architect;Graphic artist;Graphic designer;Historian;Horticulturalist;Horticulturist;Illustrator;Judge;Jurist;Land speculator;Landscape architect;Landscape designer;Lawyer;Legislator;Lexicographers;Lieutenant Governor;Lithographer;Merchant;Metalworker;Miniaturist;Natural scientist;Naturalist;Nurseryman;Orator;Owner;Painter;Patriot;Physician;Physician;Planter;Poet;Politician;Portraitist;Preacher;Printmaker;Professor of botany;Proto-industrialist;Publisher;Quaker;Revolutionaries;Revolutionary War patriot;Scholar;Scientist;Seedsman;Silversmith;Soldier;Teacher;Theologians;Translator;Travel Writer;Urban designer;Urban planner;Watercolorist;Writer;Zoologist
+}}
+This is a property of type [[Has type::Text]].
+[[Category:Mediawiki-pages-HealdPerson]]

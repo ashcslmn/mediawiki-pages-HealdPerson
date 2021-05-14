@@ -1,0 +1,38 @@
+<includeonly>
+'''Alternate names:''' {{#arraymap:{{{Alternate names|}}}|;|x|[[Alternate name::x]]}}
+
+'''Birth Date:'''  {{Date
+  |Birth
+  |Date={{{Birth Date|}}}
+  |Circa={{{Birth Circa|}}}
+  |Concurrence={{{Birth Concurrence}}}
+  |Questionable={{{Birth Questionable}}}
+  |EndDate={{{Birth Date End|}}}
+  |EndCirca={{{Birth Circa End|}}}
+  |EndConcurrence={{{Birth Concurrence End|}}}
+  |EndQuestionable={{{Birth Questionable End|}}}
+}}
+
+'''Death Date:'''  {{Date
+  |Death
+  |Date={{{Death Date|}}}
+  |Circa={{{Death Circa|}}}
+  |Concurrence={{{Death Concurrence}}}
+  |Questionable={{{Death Questionable}}}
+  |EndDate={{{Death Date End|}}}
+  |EndCirca={{{Death Circa End|}}}
+  |EndConcurrence={{{Death Concurrence End|}}}
+  |EndQuestionable={{{Death Questionable End|}}}
+}}
+
+'''Birth Location:''' [[Birth Location::{{{Birth Location|}}}]]
+
+'''Role:''' {{#arraymap:{{{Roles|}}}|;|x|[[Role::x]]}}
+
+'''Used Keywords:''' {{#arraymap:{{{Keywords|}}}|;|x|[[Keyword::x]]}}
+
+'''Other resources:'''
+{{{Other resources|}}}
+
+[[Category:People]]
+</includeonly><noinclude>[[Category:Mediawiki-pages-HealdPerson]]</noinclude>

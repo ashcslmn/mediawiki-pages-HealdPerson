@@ -1,0 +1,2 @@
+This is a property of type [[Has type::Text]]. It is a subproperty of [[Subproperty of::Property:Location]].
+[[Category:Mediawiki-pages-HealdPerson]]
