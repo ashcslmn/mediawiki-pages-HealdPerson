@@ -43,6 +43,11 @@
                     "name": "Person",
                     "namespace": "NS_TEMPLATE",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdPerson\/master\/Template%2FPerson.mediawiki"
+                },
+                {
+                    "name": "People",
+                    "namespace": "NS_CATEGORY",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdPerson\/master\/Category%2FPeople.mediawiki"
                 }
             ],
             "requiredExtensions": [
