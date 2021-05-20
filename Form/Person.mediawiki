@@ -23,7 +23,7 @@ if a page with that name already exists, you will be sent to a form to edit that
 {{Geolocation field set|Person}}
 |-
 ! Role: 
-| {{FormField|Roles|Role|<nowiki>input type=tokens</nowiki>}}
+| {{{field|Roles|input type=tokens|list|delimiter=;|values from property=Role}}}
 |-
 ! Used Keywords: 
 | {{{field|Keywords|input type=tokens|list|delimiter=;|values from category=Keywords}}}
