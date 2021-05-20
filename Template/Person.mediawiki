@@ -27,6 +27,14 @@
 
 '''Birth Location:''' [[Birth Location::{{{Birth Location|}}}]]
 
+'''Full address:'''
+{{Geolocation
+  |Full address={{{Full address|}}}
+  |Coordinates={{{Coordinates|}}}
+  |Geolocation link={{{Geolocation link|}}}
+  |inline
+}}
+
 '''Role:''' {{#arraymap:{{{Roles|}}}|;|x|[[Role::x]]}}
 
 '''Used Keywords:''' {{#arraymap:{{{Keywords|}}}|;|x|[[Keyword::x]]}}
