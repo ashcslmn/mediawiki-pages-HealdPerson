@@ -10,7 +10,6 @@ Provides a collection of wiki pages for easy inclusion of Person fields and sema
 * PagePort or PageExchange
 * https://github.com/WikiTeq/mediawiki-pages-ExternalLink
 * https://github.com/WikiTeq/mediawiki-pages-Dates
-* https://github.com/WikiTeq/mediawiki-pages-Geolocation
 * https://github.com/WikiTeq/mediawiki-pages-AllowedValues
 
 # Setup
