@@ -34,5 +34,7 @@
 '''Other resources:'''
 {{{Other resources|}}}
 
+[[:Special:ExportRDF/{{PAGENAME}}|Export as RDF]]
+
 [[Category:People]]
 </includeonly><noinclude>[[Category:Mediawiki-pages-HealdPerson]]</noinclude>
