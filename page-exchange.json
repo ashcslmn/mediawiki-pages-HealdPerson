@@ -2,62 +2,38 @@
     "publisher": "WikiTeq",
     "author": "WikiTeq",
     "language": "en",
-    "url": "https:\/\/github.com\/WikiTeq\/mediawiki-pages-HealdPerson",
+    "url": "https:\/\/github.com\/yaronkoren\/mediawiki-pages-HealdPerson",
     "packages": {
-        "HEALDPerson": {
-            "globalID": "HEALDPerson",
-            "description": "Provides a collection of wiki pages for easy inclusion of Person fields and semantics in Mediawiki projects (HEALD wiki).",
-            "version": "0.1",
-            "pages": [
-                {
-                    "name": "Person",
-                    "namespace": "PF_NS_FORM",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdPerson\/master\/Form%2FPerson.mediawiki"
-                },
-                {
-                    "name": "Alternate name",
-                    "namespace": "SMW_NS_PROPERTY",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdPerson\/master\/Property%2FAlternate%20name.mediawiki"
-                },
-                {
-                    "name": "Birth Location",
-                    "namespace": "SMW_NS_PROPERTY",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdPerson\/master\/Property%2FBirth%20Location.mediawiki"
-                },
-                {
-                    "name": "Keyword",
-                    "namespace": "SMW_NS_PROPERTY",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdPerson\/master\/Property%2FKeyword.mediawiki"
-                },
-                {
-                    "name": "Location",
-                    "namespace": "SMW_NS_PROPERTY",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdPerson\/master\/Property%2FLocation.mediawiki"
-                },
-                {
-                    "name": "Role",
-                    "namespace": "SMW_NS_PROPERTY",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdPerson\/master\/Property%2FRole.mediawiki"
-                },
-                {
-                    "name": "Person",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdPerson\/master\/Template%2FPerson.mediawiki"
-                },
-                {
-                    "name": "People",
-                    "namespace": "NS_CATEGORY",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdPerson\/master\/Category%2FPeople.mediawiki"
-                }
-            ],
+        "HEALD Person": {
+            "globalID": "com.github.yaronkoren.heald.person",
+            "description": null,
+            "version": "2",
+	    "directoryStructure": {
+		"service": "GitHub",
+		"accountName": "yaronkoren",
+		"repositoryName": "mediawiki-pages-HealdPerson",
+		"namespaceSettings": [
+		    {
+			"namespace": "NS_FILE",
+			"fileNamePrefix": "File/",
+			"fileNameSuffix": ".mediawiki",
+			"actualFileNamePrefix": "File/",
+			"actualFileNameSuffix": ""
+		    },
+		    {
+			"namespace": "NS_TEMPLATE",
+			"fileNamePrefix": "Template/",
+			"fileNameSuffix": ".mediawiki"
+		    },
+		    {
+			"namespace": "PF_NS_FORM",
+			"fileNamePrefix": "Form/",
+			"fileNameSuffix": ".mediawiki"
+		    }
+		]
+	    },
             "requiredExtensions": [
-                "SemanticMediaWiki",
                 "PageForms"
-            ],
-             "requiredPackages": [
-                "ExternalLink",
-                "DateStructure",
-                "AllowedValues"
             ]
         }
     }
