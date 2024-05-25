@@ -1,40 +1,51 @@
 {
-    "publisher": "WikiTeq",
-    "author": "WikiTeq",
-    "language": "en",
-    "url": "https:\/\/github.com\/ashcslmn\/mediawiki-pages-HealdPerson",
-    "packages": {
-        "HEALD Person": {
-            "globalID": "com.github.ashcslmn.heald.person",
-            "description": null,
-            "version": "2",
-	    "directoryStructure": {
-		"service": "GitHub",
-		"accountName": "ashcslmn",
-		"repositoryName": "mediawiki-pages-HealdPerson",
-		"namespaceSettings": [
-		    {
-			"namespace": "NS_FILE",
-			"fileNamePrefix": "File/",
-			"fileNameSuffix": ".mediawiki",
-			"actualFileNamePrefix": "File/",
-			"actualFileNameSuffix": ""
-		    },
-		    {
-			"namespace": "NS_TEMPLATE",
-			"fileNamePrefix": "Template/",
-			"fileNameSuffix": ".mediawiki"
-		    },
-		    {
-			"namespace": "PF_NS_FORM",
-			"fileNamePrefix": "Form/",
-			"fileNameSuffix": ".mediawiki"
-		    }
-		]
-	    },
-            "requiredExtensions": [
-                "PageForms"
-            ]
-        }
-    }
+	"publisher": "PagePort",
+	"author": "PagePort",
+	"language": "en",
+	"url": "https:\/\/github.com\/ashcslmn\/mediawiki-pages-HealdPerson",
+	"packages": {
+		"1716649233": {
+			"globalID": "1716649233",
+			"description": "",
+			"version": "0.1",
+			"requiredExtensions": [],
+			"directoryStructure": {
+				"service": "GitHub",
+				"accountName": "ashcslmn",
+				"repositoryName": "mediawiki-pages-HealdPerson",
+				"namespaceSettings": [
+					{
+						"namespace": "NS_TEMPLATE",
+						"fileNamePrefix": "TEMPLATE\/",
+						"fileNameSuffix": ".mediawiki"
+					},
+					{
+						"namespace": "SMW_NS_PROPERTY",
+						"fileNamePrefix": "SMW_PROPERTY\/",
+						"fileNameSuffix": ".mediawiki"
+					},
+					{
+						"namespace": "SMW_NS_PROPERTY",
+						"fileNamePrefix": "SMW_PROPERTY\/",
+						"fileNameSuffix": ".mediawiki"
+					},
+					{
+						"namespace": "SMW_NS_PROPERTY",
+						"fileNamePrefix": "SMW_PROPERTY\/",
+						"fileNameSuffix": ".mediawiki"
+					},
+					{
+						"namespace": "SMW_NS_PROPERTY",
+						"fileNamePrefix": "SMW_PROPERTY\/",
+						"fileNameSuffix": ".mediawiki"
+					},
+					{
+						"namespace": "PF_NS_FORM",
+						"fileNamePrefix": "PF_FORM\/",
+						"fileNameSuffix": ".mediawiki"
+					}
+				]
+			}
+		}
+	}
 }
